@@ -8,7 +8,7 @@
 
 ## Installation
 
-##### After cloning this repository with this link (https://kilihbr.github.io/tailwindcss-website-example.git) you have to execute these commands in your terminal. This requires that NodeJS (and NPM) is installed on your device.
+##### After cloning this repository with this link (https://github.com/kilihbr/tailwindcss-website-example.git) you have to execute these commands in your terminal. This requires that NodeJS (and NPM) is installed on your device.
 #### First install NPM packages:
 
 ```bash
