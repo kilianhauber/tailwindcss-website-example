@@ -1,0 +1,24 @@
+{
+  "name": "tailwindcss-website-example",
+  "version": "1.0.0",
+  "description": "TailwindCSS website example",
+  "main": "/src/js/index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/styles/tailwind.css -o ./dist/tailwind.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/.../....git"
+  },
+  "author": "kilihbr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/.../.../issues"
+  },
+  "homepage": "https://github.com/.../...#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19"
+  }
+}
